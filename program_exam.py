@@ -1,1 +1,1 @@
-print("Hello from GIT-EXAM branch")
+<<<<<<< your code ======= other code >>>>>>> 
