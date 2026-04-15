@@ -1,1 +1,1 @@
-print("wealcome to the github")
+print("wealcome to the program exam")
