@@ -1,2 +1,1 @@
-print("Hello  GIT-EXAM branch")
-print("hello")
+print("wealcome to the github")
