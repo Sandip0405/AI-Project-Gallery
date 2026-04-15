@@ -1,1 +1,2 @@
-<<<<<<< your code ======= other code >>>>>>> print("hello")
+print("Hello  GIT-EXAM branch")
+print("hello")
