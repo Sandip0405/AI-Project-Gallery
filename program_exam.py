@@ -1,0 +1,1 @@
+print("wealcome to the program exam")

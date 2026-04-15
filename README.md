@@ -48,3 +48,4 @@
 | 08    | Brain Tumor Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 09    | Pneumonia Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 10    | Realtime Face Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
+wealcome to the github
